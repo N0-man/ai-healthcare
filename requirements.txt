@@ -4,3 +4,7 @@ numpy
 sympy
 scipy
 matplotlib
+scikit-image
+pandas
+mplcursors
+ipympl
