@@ -2,6 +2,6 @@
 
 ```shell
 # venv is the <DIR>, can be any name
-python3 -m virtualenv venv
-source venv/bin/activate
+python3 -m virtualenv env
+source env/bin/activate
 ```
